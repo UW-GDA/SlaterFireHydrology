@@ -5,7 +5,7 @@ Robin Ruhm
 This project will look at the effects of the slater fire on infiltration by looking at the runoff response to precipitation events.  
 
 ##Background
-The 2018 Slater Fire burned in the Indian Creek Watershed in the Mid-Klamath on Karuk lands including the town of Happy Camp.  Karuk collaborators have suggested that this may have had several hydrological effects including changing flood lines in Happy camp.
+The 2020 Slater Fire burned in the Indian Creek Watershed in the Mid-Klamath on Karuk lands including the town of Happy Camp.  Karuk collaborators have suggested that this may have had several hydrological effects including changing flood lines in Happy camp.
 
 A host of literature looks at ecological effects of fires.  Specifically sufficiently high heat fires can vaporize and and induce chemical changes through pyrolysis to organic compounds.  While sufficient exposure to high heat will burn compounds away, limited exposure to heat combined with the temperature gradient of fires can lead to the settling of compounds back into topsoil with hydrophobic ends of compounds left exposed.  This can create a water-repellent layer that vastly reduces infiltration in future rain events.  See Robin's Water Repellency term paper (From Fire Ecology in the Fall of 2021) uploaded to the github for further background information (and a project proposal that this project builds towards): https://github.com/UW-GDA/SlaterFireHydrology/blob/main/water-repellency-term-paper.pdf.
 
