@@ -30,5 +30,13 @@ Seek statistically significant differences in regression coefficient, correcting
 ## Expected outcomes
 Ideally this will find measureable differences in correlations of rainfall with post-precipitation river flows.  If so, then it will be up to future work to untangle what may be caused by infiltration changes, interception changes, or evapotranspiration changes.  If no change is noted, it will be an important result that runoff-driven river flows do not seem particularly impacted by fire scars in the Klamath (given that the Slater fire is one of the more severe fires in recent times).
 
+## Results
+Unfortunately the Happy Camp precipitation data was too sparse to use.  However, Salmon River (100 miles away) has reliable precipitation data; the two weather stations are fairly correlated in precipitation data (.76 correlation during the late season period the analysis focused on).  Therefore, it was used as the precipitation source.  Note that any analysis using this precipitation data should be interpreted using an instrumental variable (in particular, the effects both in terms of correlation and r-squared are greater by a factor of 1/.76 than what is found using this instrumental variable).  
+
+The analysis did find an increase in regression coefficient post fire (2021) compared to pre-fire (2015-2019) for both Indian Creek and Sucker Creek (also contains part of the Slater fire scar).  Surprisingly, Salmon River (a control data set) experienced a drop in regression coefficient post-fire.  While this may be a result of the Salmon River's larger watershed and flows, it's geographic location south of the other two creeks, or factors at play relating to the year 2021 (in which case the fire scar might have been so important it outweighed those confounding factors), this might also simply indicate the scale of unpredictability of the data is too large to take much meaning from the analysis.  
+
+## Conclusions
+More analysis from other fires is needed to verify if we are seeing changing hydrological responses due to them.  Waiting a year or two would let us look at more years of Slater Fire data as well as post-fire data from the 2021 River Complex and McCash fires that were also large and relatively severe fires.  In the mean time more analysis can be made on older (mostly low to moderate-severity) fires.  Futhermore, this may turn out to be a case where existing data is too coarse to tease out fire-hydrological responses and field sampling of soil will be needed.
+
 ## References
 See attached term paper from last quarter for references: https://github.com/UW-GDA/SlaterFireHydrology/blob/main/water-repellency-term-paper.pdf
